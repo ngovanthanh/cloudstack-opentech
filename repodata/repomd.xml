@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
+ <revision>1547806384</revision>
+<data type="filelists">
+  <checksum type="sha256">0e74cf5db260bd01f86a8e6105025d829887a6de5630a66a761783d9a266a73b</checksum>
+  <open-checksum type="sha256">3e5e783becd0de30a28e9ccaba7f8729a3a09222888dee68a27d1779d4fb743a</open-checksum>
+  <location xml:base="http://cloudstack.apt-get.eu/centos/6/4.11" href="repodata/0e74cf5db260bd01f86a8e6105025d829887a6de5630a66a761783d9a266a73b-filelists.xml.gz"/>
+  <timestamp>1547806384</timestamp>
+  <size>12365</size>
+  <open-size>213907</open-size>
+</data>
+<data type="primary">
+  <checksum type="sha256">96d021e5e47428f287ce7965b62820a0742cfd100808dd2296541ccbe44052b4</checksum>
+  <open-checksum type="sha256">4e38006ef3181cd6a33c2addd40a30bae002b4ae4257b91f0f7f41b6fb534890</open-checksum>
+  <location xml:base="http://cloudstack.apt-get.eu/centos/6/4.11" href="repodata/96d021e5e47428f287ce7965b62820a0742cfd100808dd2296541ccbe44052b4-primary.xml.gz"/>
+  <timestamp>1547806384</timestamp>
+  <size>3772</size>
+  <open-size>40133</open-size>
+</data>
+<data type="primary_db">
+  <checksum type="sha256">af8162f52c46006661fe43f76adbb1019987b5af745b8214f18dcd3f3ff6e636</checksum>
+  <open-checksum type="sha256">a479fdb84fbbb8d75b05743bd4749c5fcf5fb0f1da5a4c89e9b6a3a666316b13</open-checksum>
+  <location xml:base="http://cloudstack.apt-get.eu/centos/6/4.11" href="repodata/af8162f52c46006661fe43f76adbb1019987b5af745b8214f18dcd3f3ff6e636-primary.sqlite.bz2"/>
+  <timestamp>1547806384</timestamp>
+  <database_version>10</database_version>
+  <size>11097</size>
+  <open-size>62464</open-size>
+</data>
+<data type="other_db">
+  <checksum type="sha256">1a2660c009e4d33a6eaea65b2ce5de49dcd376202280eac1608a816b086679cb</checksum>
+  <open-checksum type="sha256">df6f58346ec8696a3206672fbbdac8aef7cab1d55ce530bc36606e60b0c7e910</open-checksum>
+  <location xml:base="http://cloudstack.apt-get.eu/centos/6/4.11" href="repodata/1a2660c009e4d33a6eaea65b2ce5de49dcd376202280eac1608a816b086679cb-other.sqlite.bz2"/>
+  <timestamp>1547806384</timestamp>
+  <database_version>10</database_version>
+  <size>2794</size>
+  <open-size>15360</open-size>
+</data>
+<data type="other">
+  <checksum type="sha256">924f93531c9c8b853ed5df98104e8129153d48ac5d5800978313965ab4066ca0</checksum>
+  <open-checksum type="sha256">878f462f25b243c71db9b2179c544634fed01407cda9a7e961fbce663861b075</open-checksum>
+  <location xml:base="http://cloudstack.apt-get.eu/centos/6/4.11" href="repodata/924f93531c9c8b853ed5df98104e8129153d48ac5d5800978313965ab4066ca0-other.xml.gz"/>
+  <timestamp>1547806384</timestamp>
+  <size>1284</size>
+  <open-size>10262</open-size>
+</data>
+<data type="filelists_db">
+  <checksum type="sha256">3b8c304ca9205abd608b31e2f92ce9655de021829c65d6356ba925b61804120d</checksum>
+  <open-checksum type="sha256">d198dea001943c2e8368e5c379796f6146cb6c6e3dfd41fd5f2e0125b02fd708</open-checksum>
+  <location xml:base="http://cloudstack.apt-get.eu/centos/6/4.11" href="repodata/3b8c304ca9205abd608b31e2f92ce9655de021829c65d6356ba925b61804120d-filelists.sqlite.bz2"/>
+  <timestamp>1547806384</timestamp>
+  <database_version>10</database_version>
+  <size>17104</size>
+  <open-size>99328</open-size>
+</data>
+</repomd>
